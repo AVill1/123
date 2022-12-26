@@ -1,7 +1,7 @@
 from polyclinic import Polyclinic
 
 
-class Polyclinics:
+class Polyclinics::
     DEFAULT_SIZE = 100
 
     def __init__(self, size=DEFAULT_SIZE):
