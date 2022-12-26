@@ -1,4 +1,4 @@
-class Polyclinic::
+class Polyclinic:
     def __init__(self, number, specialist, patient):
         self._number = number
         self._specialist = specialist
